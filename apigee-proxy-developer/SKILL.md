@@ -40,3 +40,4 @@ Opinionated guidance for designing and managing Apigee API Proxies using `apigee
 ## References
 - [Special Cases & Lessons Learned](file://references/special-cases.md)
 - [Google Cloud Documentation Links](file://references/google-docs.md)
+- [Apigee Antipatterns](file://references/antipatterns-intro.md)
